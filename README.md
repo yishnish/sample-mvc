@@ -1,5 +1,7 @@
 A very basic Spring MVC webapp with simple profile, ORM and REST controller setup.
 
+[![Build Status](https://travis-ci.org/yishnish/sample-mvc.svg?branch=master)](https://travis-ci.org/yishnish/sample-mvc)
+
 * Requirements:
     * Maven
     * Java >= 8
