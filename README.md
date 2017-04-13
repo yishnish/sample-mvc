@@ -1,6 +1,6 @@
-A very basic Spring MVC webapp with simple profile, ORM and REST controller setup.
+[![Build Status](https://travis-ci.org/yishnish/sample-mvc.svg?branch=master)](https://travis-ci.org/yishnish/sample-mvc)    [![Coverage Status](https://coveralls.io/repos/github/yishnish/mytelnet/badge.svg)](https://coveralls.io/github/yishnish/sample-mvc)
 
-[![Build Status](https://travis-ci.org/yishnish/sample-mvc.svg?branch=master)](https://travis-ci.org/yishnish/sample-mvc)
+A very basic Spring MVC webapp with simple profile, ORM and REST controller setup.
 
 * Requirements:
     * Maven
